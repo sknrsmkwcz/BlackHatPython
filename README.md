@@ -12,3 +12,11 @@ Feel free to explore these projects and learn from them. If you have any questio
 **[TCP_Server.py](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/TCP_Server.py)**
 
 **[UDP_Client.py](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/UDP_Client.py)**
+
+**[netcat](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/netcat.py)**
+
+**[SSH_command](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/SSH_command.py)**
+
+**[SSH_rcmd](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/SSH_rcmd.py)**
+
+**[SSH_Server](https://github.com/sknrsmkwcz/BlackHatPython/blob/master/SSH_Server.py)**
